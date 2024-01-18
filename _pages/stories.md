@@ -3,6 +3,6 @@ title: stories
 permalink: /stories/
 description: Stories to go here.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
