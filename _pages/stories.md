@@ -1,3 +1,4 @@
+---
 layout: page
 title: stories
 permalink: /stories/
@@ -6,3 +7,4 @@ nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+---
