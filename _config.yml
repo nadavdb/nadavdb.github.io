@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Nadav DB # blog_name will be displayed in your blog page
-blog_description: not sure if anything will end up getting posted here.
+blog_description: not sure if anything will end up getting posted here. are vlogs still in?
 permalink: /blog/:year/:title/
 
 # Pagination
